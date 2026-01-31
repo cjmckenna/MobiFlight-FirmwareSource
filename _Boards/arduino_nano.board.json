@@ -48,7 +48,7 @@
     "MaxButtons": 18,
     "MaxEncoders": 9,
     "MaxInputShifters": 6,
-    "MaxLcdI2C": 2,
+    "MaxLcdI2C": 3,
     "MaxLedSegments": 6,
     "MaxOutputs": 18,
     "MaxServos": 8,
